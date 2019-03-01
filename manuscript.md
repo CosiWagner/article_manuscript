@@ -1,3 +1,2 @@
 # awesome Manuscript
-Author Cosima
-
+Author: Cosima Wagner
