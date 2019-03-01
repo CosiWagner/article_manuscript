@@ -1,2 +1,2 @@
-# awesome Manuscript
+# awesome manuscript
 Author: Cosima Wagner
